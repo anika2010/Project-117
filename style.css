@@ -1,0 +1,25 @@
+#show_sketch{
+    float: right;
+}
+body{
+    background-color: rgb(15, 197, 30);
+}
+#score{
+    float: left;
+    color: blueviolet;
+    font-size: 18px;
+}
+#timer{
+    float: right;
+    color: blueviolet;
+    font-size: 18px;
+}
+h1{
+    background-color: bisque;
+}
+#my_sketch,#confidence{
+    background-color: rgb(230, 84, 84);
+    font-size: 18px;
+    width:20%;
+    border-radius: 5px;
+}
